@@ -1128,7 +1128,7 @@
         "Url": "RemaidJunc.exe",
         "HashCode": "8bFzTzpWerc=",
         "SizeFile": 6645374,
-        "Path": ""
+        "Path": "Remaid_Data/RemaidJunc.exe"
       },
       {
         "Url": "resources.assets",
@@ -2140,4 +2140,5 @@
       }
     ]
   }
+
 ]
